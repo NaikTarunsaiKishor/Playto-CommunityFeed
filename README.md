@@ -52,8 +52,8 @@ This project focuses on **efficient data modeling, concurrency safety, and compl
 - **Vite**
 
 ### Execute Code By this commands
-npm run dev
-pnpm install
+npm run dev ->
+pnpm install ->
 pnpm run dev
 ---
 
