@@ -102,7 +102,8 @@ Each karma change is recorded as an **event**, ensuring correctness and traceabi
 
 Sample Outcome:
 <img width="938" height="439" alt="Screenshot 2026-02-04 155040" src="https://github.com/user-attachments/assets/740928aa-97ad-4f35-8d65-77cfb5eb40e6" />
-<img width="938" height="439" alt="Screenshot 2026-02-04 155040" src="https://github.com/user-attachments/assets/740928aa-97ad-4f35-8d65-77cfb5eb40e6" />
+<img width="302" height="356" alt="Screenshot 2026-02-04 155236" src="https://github.com/user-attachments/assets/4956f8f3-78dd-4b21-a213-3e134985bfa3" />
+
 
 
 
