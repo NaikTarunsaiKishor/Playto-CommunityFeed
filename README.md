@@ -8,7 +8,7 @@ This project focuses on **efficient data modeling, concurrency safety, and compl
 
 ## 🚀 Live Demo
 
-- **Frontend:** https://your-vercel-link.vercel.app 
+- **# 🧵 Playto Community Feed:** https://playto-community-feed-pearl.vercel.app/ 
 
 ---
 
