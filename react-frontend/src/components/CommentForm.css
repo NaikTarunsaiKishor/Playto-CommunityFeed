@@ -1,0 +1,30 @@
+.comment-form {
+  margin-bottom: 1rem;
+}
+
+.comment-form.is-reply {
+  margin-bottom: 0;
+}
+
+.comment-form-error {
+  background-color: #fef2f2;
+  color: var(--destructive);
+  padding: 0.5rem;
+  border-radius: var(--radius);
+  font-size: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.comment-form-input-wrapper {
+  margin-bottom: 0.5rem;
+}
+
+.comment-form-input {
+  min-height: auto;
+}
+
+.comment-form-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+}

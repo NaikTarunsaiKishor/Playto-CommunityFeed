@@ -1,0 +1,53 @@
+.create-post-collapsed {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem;
+  cursor: pointer;
+  margin-bottom: 1rem;
+  transition: border-color 0.2s;
+}
+
+.create-post-collapsed:hover {
+  border-color: var(--primary);
+}
+
+.create-post-placeholder {
+  color: var(--muted-foreground);
+  font-size: 0.875rem;
+}
+
+.create-post-expanded {
+  margin-bottom: 1rem;
+}
+
+.create-post-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.create-post-title {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.create-post-error {
+  background-color: #fef2f2;
+  color: var(--destructive);
+  padding: 0.75rem;
+  border-radius: var(--radius);
+  font-size: 0.875rem;
+  margin-bottom: 1rem;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.create-post-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+}

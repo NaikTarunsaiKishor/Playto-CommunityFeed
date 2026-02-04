@@ -1,0 +1,63 @@
+.feed-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+}
+
+.feed-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.feed-sort {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.posts-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.feed-loading {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.skeleton-card {
+  height: 200px;
+}
+
+.skeleton-header {
+  height: 40px;
+  margin-bottom: 1rem;
+}
+
+.skeleton-body {
+  height: 80px;
+  margin-bottom: 1rem;
+}
+
+.skeleton-footer {
+  height: 32px;
+  width: 50%;
+}
+
+.error-card {
+  text-align: center;
+  padding: 3rem;
+}
+
+.error-message {
+  color: var(--destructive);
+  margin-bottom: 1rem;
+}
+
+.empty-state {
+  text-align: center;
+  padding: 3rem;
+  color: var(--muted-foreground);
+}
